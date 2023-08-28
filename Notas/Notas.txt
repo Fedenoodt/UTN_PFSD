@@ -1,2 +1,6 @@
   - 28-08-2023_Lunes:
-Toda la informaciòn de las fechas estàn en el cronograma. Las clases son los Lunes a las 20:00hs.
+AGENDA - Toda la informaciòn de las fechas estàn en el cronograma. Las clases son los Lunes a las 20:00hs.
+
+INTRASCENDENTES - El profe empezò a desarrollar un script, explicando conceptos claves para conocer la materia.
+
+TIPS - Hacer uso del "onClick()" tambièn se ve como un evento.
