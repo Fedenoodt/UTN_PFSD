@@ -40,21 +40,24 @@
                         </div>
                         <div class="lock">
                             <label for="seg">Ingresá el tipo de seguro</label><br>
-                            <select class="optBox" id="seg" name="seg" type="text" placeholder="ejemplo@dominio.com">
-                                <option value="basico">Básico</option>
-                                <option value="intermedio">Intermedio</option>
-                                <option value="premium">Premium</option>
+                            <select class="optBox" id="seg" name="seg" type="text" onchange="segurosValor()">
+                                <option value='basico'>Básico</option>
+                                <option value='intermedio'>Intermedio</option>
+                                <option value='premium'>Premium</option>
                             </select>
                         </div>
                         <div class="lock">
                             <button class="button" type="submit">
-                                Enviar      
+                                Enviar
                             </button>
+                        </div>
+                        <div class="answer">
+                            <h2 id="txt"></h2>
                         </div>
                     </form>
                 </div>
-                <script src="../scripts/script.js"></script>
             </div>
         </div>
+        <script src="../scripts/script.js"></script>
     </body>
 </html>
