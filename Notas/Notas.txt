@@ -4,3 +4,8 @@ AGENDA - Toda la informaciòn de las fechas estàn en el cronograma. Las clases 
 INTRASCENDENTES - El profe empezò a desarrollar un script, explicando conceptos claves para conocer la materia.
 
 TIPS - Hacer uso del "onClick()" tambièn se ve como un evento.
+
+  - 31-08-2023_Jueves:
+
+TIPS - Tomar en cuenta que, se pueden plantear valores por defecto, asignand a la variable la pregunta 
+condicional, seguida de un signo de pregunta, con la sentencia (sin corchetes) de esa condición.
