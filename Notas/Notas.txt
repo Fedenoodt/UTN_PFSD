@@ -9,3 +9,5 @@ TIPS - Hacer uso del "onClick()" tambièn se ve como un evento.
 
 TIPS - Tomar en cuenta que, se pueden plantear valores por defecto, asignand a la variable la pregunta 
 condicional, seguida de un signo de pregunta, con la sentencia (sin corchetes) de esa condición.
+
+AGENDA - Instalar Babel para antes de la siguiente clase.
