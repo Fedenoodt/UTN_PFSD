@@ -24,9 +24,11 @@ function division() {
 
 
 function answers () {
-    let one = document.getElementById(parseFloat('val1'));
-    let two = document.getElementById(parseFloat('val2'));
-    console.log(one, two)
+    let one = document.getElementById('val1').value;
+    let two = document.getElementById('val2').value;
+    one = parseFloat(one);
+    two = parseFloat(two);
+    console.log(operation, one, two)
 
     if (operation == 'add') {
         value = one + two;
@@ -44,5 +46,11 @@ function answers () {
         value = one / two;
         console.log(value)
     }
-    document.getElementById('result').innerHTML = value;
+    if (value != undefined) {
+        value = `El resultado de eso es ${value}.`;
+        document.getElementById('result').innerHTML = value;
+    }
+    else {
+        document.getElementById('result').innerHTML = 'Por favor, coloque números en las casillas, una operación, y ahi haga click en "Ver resultado".';
+    }
 }
