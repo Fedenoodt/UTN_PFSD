@@ -11,3 +11,7 @@ TIPS - Tomar en cuenta que, se pueden plantear valores por defecto, asignand a l
 condicional, seguida de un signo de pregunta, con la sentencia (sin corchetes) de esa condición.
 
 AGENDA - Instalar Babel para antes de la siguiente clase.
+
+- 04-09-2023_Lunes:
+
+TIPS - El deconstructor es importante, para tomar todos los valores de un objeto, sin estar llamando a cada atributo, todo en una sola lìnea.
