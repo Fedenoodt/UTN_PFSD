@@ -12,6 +12,11 @@ condicional, seguida de un signo de pregunta, con la sentencia (sin corchetes) d
 
 AGENDA - Instalar Babel para antes de la siguiente clase.
 
-- 04-09-2023_Lunes:
+   - 04-09-2023_Lunes:
 
 TIPS - El deconstructor es importante, para tomar todos los valores de un objeto, sin estar llamando a cada atributo, todo en una sola lìnea.
+
+   - 11-09-2023_Lunes:
+
+TIPS - La clase es un tema importante a investigar. De todos modos el profe lo va a explicar una vez más.
+TIPS - Los "fragments" (<> </>) son útiles para encerrar contenido HTML para la expresión de retorno de JSX.
