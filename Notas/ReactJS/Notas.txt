@@ -24,3 +24,4 @@ TIPS - Los "fragments" (<> </>) son útiles para encerrar contenido HTML para la
    - 18-09-2023_Lunes:
 
 TIPS - La clase básicamente es, una forma de heredar módulos mediante las mismas, usando el método extends, y exportando a los módulos normalmente.
+TIPS - Al usar props, tenemos que delimitar la variable que va a ir a buscar la misma.
