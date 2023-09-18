@@ -20,3 +20,7 @@ TIPS - El deconstructor es importante, para tomar todos los valores de un objeto
 
 TIPS - La clase es un tema importante a investigar. De todos modos el profe lo va a explicar una vez más.
 TIPS - Los "fragments" (<> </>) son útiles para encerrar contenido HTML para la expresión de retorno de JSX.
+
+   - 18-09-2023_Lunes:
+
+TIPS - La clase básicamente es, una forma de heredar módulos mediante las mismas, usando el método extends, y exportando a los módulos normalmente.
