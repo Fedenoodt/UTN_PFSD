@@ -31,3 +31,4 @@ TIPS - Los estados engloban al módulo, y lo capacitan para ser modificado.
    - 25-09-2023_Lunes:
 
 TIPS - this.state.nombre es la funcion callback de los estados.
+TIPS - En funcioones va muy similar que con las clases. Salvo que para cosas como los estados, necesitamos insertarlos en una constante.
