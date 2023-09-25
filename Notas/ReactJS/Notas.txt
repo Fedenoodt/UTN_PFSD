@@ -27,3 +27,7 @@ TIPS - La clase básicamente es, una forma de heredar módulos mediante las mism
 TIPS - Al usar props, tenemos que delimitar la variable que va a ir a buscar la misma.
 TIPS - map() además de generar un nuevo array, toma los datos de ese objeto, y los vuelve componentes, dando así una cadena de texto.
 TIPS - Los estados engloban al módulo, y lo capacitan para ser modificado.
+
+   - 25-09-2023_Lunes:
+
+TIPS - this.state.nombre es la funcion callback de los estados.
