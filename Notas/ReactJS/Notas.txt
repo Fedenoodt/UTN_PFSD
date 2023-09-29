@@ -42,3 +42,7 @@ insertarlos en una constante.
 TIPS - Para hacer una funciòn de operaciones, es importante tener en cuenta que no se puede modificar el 
 estado directaamente, se tiene que crear la funciòn modificadora.
 AGENDA - La primer parte del optativo nuevo, es tomar copia del trabajo ya realizado anteriormente.
+
+   - 29-09-2023_Viernes:
+
+TIPS - Es importante tomar nota de que se puede hacer uno de subdirectorios para ordenar nuestra aplicación React, para por ejemplo, separar a los componentes que componen a una página completa, de los que son simples componentes con pocos propósitos, una cosa del estilo de usar, una carpeta llamada pages, para los componentes que hacen a una página, y otra carpeta como components, para cosas singulares.
