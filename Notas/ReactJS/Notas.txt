@@ -50,3 +50,4 @@ TIPS - Es importante tomar nota de que se puede hacer uno de subdirectorios para
    - 02-10-2023_Lunes:
 
 TIPS - Los llamados a las API Rest, tienen verbos, como POST, para dar de alta contenido nuevo, GET para tomar información, PUT que actualiza, y DELETE para eliminar datos.
+TIPS - .Then y .Catch son básicamente las herramientas a utilizar también en React, para acceder a JSON.
