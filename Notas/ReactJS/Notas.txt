@@ -52,3 +52,4 @@ TIPS - Es importante tomar nota de que se puede hacer uno de subdirectorios para
 TIPS - Los llamados a las API Rest, tienen verbos, como POST, para dar de alta contenido nuevo, GET para tomar información, PUT que actualiza, y DELETE para eliminar datos.
 TIPS - .Then y .Catch son básicamente las herramientas a utilizar también en React, para acceder a JSON.
 TIPS - Axios es fácilmente instalable en los modulos node, y es más fácil de aplicar que fetch, con then y catch, y async await.
+AGENDA - El trabajo se elabora de manera sencilla, haciendo uso de todo en la clase presente, se puede hacer uso de la API de Mercado Libre ( https://api.mercadolibre.com/sites/MLA/search?q=ipod ), o cualquiera, como las de la lista: [ https://rapidapi.com/hub, https://apilist.fun/, https://www.programmableweb.com/, https://api.chucknorris.io/ ]
