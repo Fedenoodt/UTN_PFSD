@@ -60,4 +60,4 @@ INTRASCENDENTES - Cuando use la api de Mercado Libre, piedo usar limit en la URL
 
    - 19-10-2023_Jueves:
 
-TIPS - Poner signo de pregunta, seguido de uba variable, hace que valide que la variabñe no sea undefined.
+TIPS - Poner signo de pregunta, seguido de una variable, hace que valide que la variabñe no sea undefined.
